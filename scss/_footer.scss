@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+footer{
+    background-color: $primary-color;
+    ul{
+        list-style: none;
+        display:flex
+        li{
+            margin: 1em;
+            color: red;
+        }
+    }
+
+}

@@ -1,0 +1,64 @@
+* {
+  margin: 0px;
+  padding: 0px; }
+
+* {
+  margin: 0px;
+  padding: 0px; }
+
+header {
+  background-color: black;
+  justify-content: space-between;
+  align-items: center; }
+  header img {
+    width: 10em;
+    margin-left: 20px; }
+  header nav ul {
+    display: flex; }
+    header nav ul li {
+      list-style: none;
+      margin: 2em; }
+  header nav a {
+    color: red;
+    text-decoration: none; }
+    header nav a:hover {
+      background-color: white; }
+
+* {
+  margin: 0px;
+  padding: 0px; }
+
+body .batilogo {
+  margin-top: 50px;
+  margin-left: 640px;
+  margin-bottom: 20px;
+  width: 500px;
+  height: 300px;
+  text-align: center;
+  line-height: 300px; }
+
+body #a-body {
+  padding: 15px;
+  background-color: black;
+  margin-top: 100px;
+  margin-left: 780px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: red;
+  text-decoration: none;
+  font-size: medium; }
+
+body .videoTrailer {
+  margin-left: 612px; }
+
+* {
+  margin: 0px;
+  padding: 0px; }
+
+footer {
+  background-color: black; }
+  footer ul {
+    list-style: none; }
+    footer ul display:flex
+li {
+      margin: 1em;
+      color: red; }
